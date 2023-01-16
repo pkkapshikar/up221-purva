@@ -1,1 +1,9 @@
+Dataset 1: Big Blue Bus Stop Location Data
+This dataset has latitude and longitude coordinates for the locations of BBB stops, and this would help locate the bus stops where real-time information might be useful. 
+Source: http://gtfs.bigbluebus.com/parsed/stops.txt
+Data: https://github.com/pkkapshikar/up221-purva/blob/main/data/bbb_stops.csv
 
+Dataset 2: 2021 ACS Data on Means of Transportation to Work
+This dataset has information on means of transportation to work, with demographic variables and travel-related variables (such as departure time and travel time) for all Census Tracts in LA County. This might help determine which bus stops have higher ridership and the characteristics of the riders at each, given that many people who use buses primarily rely on active transportation modes (and do not usually travel extremely far) to reach a stop.
+Source: https://data.census.gov/table?q=population&g=0500000US06037$1400000&tid=ACSST5Y2021.S0802
+Data: https://github.com/pkkapshikar/up221-purva/blob/main/data/ACSST5Y2021.S0802-2023-01-15T235202.csv
